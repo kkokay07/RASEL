@@ -1,6 +1,6 @@
 # RASEL: Dairy vs Draft Cattle Classifier
 
-This repository contains a trained ensemble model, **RASEL** (Robust Animal SNP Ensemble Learner), which classifies cattle populations into Dairy or Draft categories based on SNP genotype data.
+This repository contains a trained ensemble model, **RASEL** ([R-] reference panel, [A-] ancestry informative markers, [S-] selection signatures and the power of [EL-] ensemble machine learning), which classifies cattle populations into Dairy or Draft categories based on SNP genotype data.
 
 ## Model Overview
 
